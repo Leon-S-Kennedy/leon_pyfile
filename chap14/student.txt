@@ -1,0 +1,5 @@
+{'id': '200421088', 'name': '李博文', 'math': 150.0, 'chinese': 150.0, 'english': 150.0}
+{'id': '200421099', 'name': 'libowen', 'math': 123.0, 'chinese': 145.0, 'english': 142.0}
+{'id': '200421044', 'name': 'calvin', 'math': 121.0, 'chinese': 112.0, 'english': 132.0}
+{'id': '200421045', 'name': 'libowen', 'math': 45.0, 'chinese': 54.0, 'english': 65.0}
+{'id': '200421065', 'name': '李博文', 'math': 150.0, 'chinese': 149.0, 'english': 148.0}
